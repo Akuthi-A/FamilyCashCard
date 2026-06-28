@@ -1,4 +1,3 @@
-```markdown
 # 💳 Family Cash Card API
 
 A RESTful API built with **Spring Boot** as part of the **Spring Academy - Spring Boot Beginner Course**. This project simulates a Family Cash Card system that allows parents to securely manage digital allowance cards for their children.
